@@ -15,4 +15,4 @@ int main() {
 
     printf("Sum of array elements: %d\n", sumArray(arr, n));
     return 0;
-}
+} 
